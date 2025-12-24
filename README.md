@@ -17,12 +17,12 @@ Public repositories in this profile are intended as **technical samples and expe
 ### Core Technologies
 
 - C#, .NET, ASP.NET Core, Web APIs
-- Blazor, .NET MAUI, WPF
+- Blazor, .NET MAUI, WPF, WinForms
 - SQL Server, SQLite, Entity Framework
 - RESTful APIs, SignalR, Firebase Cloud Messaging
 - Clean architecture, MVVM, asynchronous programming
 
 ### Contact
 
-- LinkedIn: https://linkedin.com/in/ahmadshami
+- LinkedIn: https://linkedin.com/in/ahmad96shami
 - Email: ahmad96shami@gmail.com
