@@ -1,16 +1,28 @@
-## Hi there 👋
+## Ahmad Shami
 
-<!--
-**ahmad96shami/ahmad96shami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET Developer with 3+ years of experience building production systems for startups and direct clients.
 
-Here are some ideas to get you started:
+My work focuses on backend and full-stack development using the modern .NET ecosystem, including ASP.NET Core, Web APIs, desktop, mobile, and web applications. I have hands-on experience designing data-driven systems, offline-first mobile applications, real-time communication, and secure backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About My Repositories
+
+Most of my professional work is maintained in **private repositories** due to client, commercial, and confidentiality constraints. This includes production systems currently used by real businesses.
+
+Public repositories in this profile are intended as **technical samples and experiments** to demonstrate:
+- Backend architecture and API design
+- Authentication and authorization patterns
+- Real-time communication concepts
+- General .NET development practices
+
+### Core Technologies
+
+- C#, .NET, ASP.NET Core, Web APIs
+- Blazor, .NET MAUI, WPF
+- SQL Server, SQLite, Entity Framework
+- RESTful APIs, SignalR, Firebase Cloud Messaging
+- Clean architecture, MVVM, asynchronous programming
+
+### Contact
+
+- LinkedIn: https://linkedin.com/in/ahmadshami
+- Email: ahmad96shami@gmail.com
