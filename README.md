@@ -30,5 +30,5 @@ Offline-first van-sales and field-distribution system used by multiple companies
 
 ## Contact
 
-- Portfolio: https://ahmadshami.pages.dev
-- LinkedIn: https://www.linkedin.com/in/ahmad96shami
+- Portfolio: ahmadshami.pages.dev
+- LinkedIn: linkedin.com/in/ahmad96shami
