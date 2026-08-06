@@ -1,28 +1,34 @@
-## Ahmad Shami
+# Ahmad Shami
 
-.NET Developer with 3+ years of experience building production systems for startups and direct clients.
+Full-Stack Developer building production web, mobile and AI-powered systems.
 
-My work focuses on backend and full-stack development using the modern .NET ecosystem, including ASP.NET Core, Web APIs, desktop, mobile, and web applications. I have hands-on experience designing data-driven systems, offline-first mobile applications, real-time communication, and secure backend services.
+I specialize in:
 
-### About My Repositories
+- .NET / ASP.NET Core backend systems
+- React and React Native applications
+- PostgreSQL, PostGIS, Redis and SQLite
+- Offline-first architecture and synchronization
+- RAG, vector search and natural-language-to-SQL
+- Docker, Linux servers and CI/CD
 
-Most of my professional work is maintained in **private repositories** due to client, commercial, and confidentiality constraints. This includes production systems currently used by real businesses.
+## Selected Work
 
-Public repositories in this profile are intended as **technical samples and experiments** to demonstrate:
-- Backend architecture and API design
-- Authentication and authorization patterns
-- Real-time communication concepts
-- General .NET development practices
+### AI Reporting Assistant
+Bilingual Arabic/English analytics assistant for querying an approximately
+800-table ERP using natural language.
 
-### Core Technologies
+### Tali' Delivery Marketplace
+Arabic-first delivery platform with geospatial dispatch, GPS tracking,
+wallets and driver payouts.
 
-- C#, .NET, ASP.NET Core, Web APIs
-- Blazor, .NET MAUI, WPF, WinForms
-- SQL Server, SQLite, Entity Framework
-- RESTful APIs, SignalR, Firebase Cloud Messaging
-- Clean architecture, MVVM, asynchronous programming
+### SeamlessVet
+Multi-tenant veterinary practice and field-operations platform with
+offline-capable web and mobile clients.
 
-### Contact
+### SeamlessGo
+Offline-first van-sales and field-distribution system used by multiple companies.
 
-- LinkedIn: https://linkedin.com/in/ahmad96shami
-- Email: ahmad96shami@gmail.com
+## Contact
+
+- Portfolio: https://ahmadshami.pages.dev
+- LinkedIn: https://www.linkedin.com/in/ahmad96shami
