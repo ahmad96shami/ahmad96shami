@@ -15,7 +15,7 @@ I specialize in:
 
 ### AI Reporting Assistant
 Bilingual Arabic/English analytics assistant for querying an approximately
-800-table ERP using natural language.
+1600-table ERP using natural language.
 
 ### Tali' Delivery Marketplace
 Arabic-first delivery platform with geospatial dispatch, GPS tracking,
